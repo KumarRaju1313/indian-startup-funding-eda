@@ -83,5 +83,3 @@ The dataset captures funding rounds of Indian startups across different years. I
 - Matplotlib & Seaborn  
 - Jupyter Notebook  
 - PowerPoint (for ISF.pptx)
-
----
