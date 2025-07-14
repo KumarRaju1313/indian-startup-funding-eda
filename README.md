@@ -30,6 +30,3 @@ The dataset includes information about startup funding rounds in India, with col
 
 ## Conclusion
 The analysis provides insights into the startup funding landscape in India, highlighting key investors, popular industries, and funding patterns.
-
-## Contact
-For any questions or feedback, please contact [your email].
